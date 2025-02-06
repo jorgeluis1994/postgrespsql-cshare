@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/k4D76AAq6c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge\\OneDrive\\Documents\\FirmaDigital\\c#\\mapp\\crudC\\crudC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

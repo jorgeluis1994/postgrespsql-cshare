@@ -1,0 +1,74 @@
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug*/ 
+[Dd]ist*/
+
+## User-specific files
+.vs/
+.vscode/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer files (for use in deployment)
+*.[Cc]ache/
+*.deploy/
+*.dbmdl
+*.bak
+*.backup
+
+## Windows Installer (sometimes needed if dealing with a deployment)
+[Dd]ist/
+
+## JetBrains Rider
+.idea/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Tye files
+.tye/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Windows Installer Files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files for Visual Studio for Mac
+.vscode/
+
+# ASP.NET Core temporary files
+tmp/
+
+# Web.config
+wwwroot/
+
+# Docker files
+.docker/
+
+# AWS Lambda build files
+.idea/
+LambdaBuildArtifacts/
+
+# .NET Core files
+artifacts/
+
+# Razor Pages (optional)
+Views/_ViewImports.cshtml
+Views/_ViewStart.cshtml
