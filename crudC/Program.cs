@@ -25,7 +25,21 @@ using crudC.models;
 // Console.WriteLine("d");
 // Acount acount= new Acount{};
 
-AcountAhorro acountAhorro=new AcountAhorro(){Titular="Jorg Ortiz"};
+// AcountAhorro acountAhorro=new AcountAhorro(){Titular="Jorg Ortiz"};
 
-Console.WriteLine("d");
+// Console.WriteLine("d");
+
+
+AcountAhorro acountAhorro = new AcountAhorro();
+        
+        // Mostrar saldo inicial
+        Console.WriteLine("Saldo inicial: " + acountAhorro.saldo);
+        Console.WriteLine("Interes: " + acountAhorro.Interes);
+
+
+        // Realizar pago
+        acountAhorro.pagar(100);  // Aumenta el saldo en 100
+        
+        // Mostrar saldo después del pago
+        Console.WriteLine("Saldo después del pago: " + acountAhorro.saldo);
 
